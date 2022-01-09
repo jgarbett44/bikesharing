@@ -29,3 +29,4 @@ Using the data from the CSV, there are 8 visualizations in the Tableau story:
 	- Checkout Times
 	- Checkout Times by Gender
 
+This site was built using [GitHub Pages](https://pages.github.com/).
