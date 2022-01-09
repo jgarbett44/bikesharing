@@ -40,6 +40,7 @@ There are 8 visualizations in the Story:
 
 
 As we consider applying this model to Des Moines, more work will need to be done to draw good comparisons. For example, it would be helpful to compare weather data to trip data using a line chart. Also, after seeing the difference in ridership among genders, we should start with a horizontal bar visualization showing total rides by gender. 
+
 It's reassuring that bikes are dropped off in roughly the same areas where they are picked up, so there should not be a need to move them back to a starting position after each ride. Also, it's encouraging that the data points to a core user group of residents/commuters. They may be more willing to use the service in December or January than a tourist would. Moreover, NYC hosts a lot more tourists than Des Moines, so to the extent that we are looking at tourist behavior, it may not translate to Iowa.
 
 
