@@ -16,7 +16,7 @@ There are 8 visualizations in the Story:
 		* Starting locations are concentrated in Manhattan, especially in the Upper West Side and down to Soho.
 
 	- Top Ending Locations
-		* Ending locations are similar to starting locations, so the bikes are not moving too far from where they are 		needed for a new rider
+		* Ending locations are similar to starting locations, so the bikes are not moving too far.
 
 	- Peak Hours, August
 		* Busiest hours are 8:00am and 6:00pm, so it's likely that many are using the bikes to commute to and from work.
